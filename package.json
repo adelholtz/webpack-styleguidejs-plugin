@@ -1,0 +1,11 @@
+{
+  "name": "webpack-styleguidejs-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin for the usage of styleguidejs",
+  "license": "Mit",
+  "private": false,
+  "main": "src/index.js",
+  "devDependencies": {
+      "styleguidejs": "^0.1.10"
+  }
+}
