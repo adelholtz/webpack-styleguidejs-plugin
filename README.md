@@ -1,4 +1,6 @@
-# webpack-styleguidejs-plugin
+# @deprecated
+
+## webpack-styleguidejs-plugin
 
 Webpack plugin for styleguidejs.
 
